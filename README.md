@@ -1,6 +1,6 @@
 # coding-test-backend-task1
 
-Implement a RESTful API using Node.js, TypeScript, and Express, and write unit tests for each of the API endpoints using Jest.
+Implement a RESTful API using Node.js, TypeScript, and Express.
 
 Create an API for managing a simple todo task list with the following endpoints:
 
@@ -14,5 +14,6 @@ Requirements:
 
 - Use a variable as the data storage.
 - Use TypeScript interfaces to define data structures.
-- Implement error handling and validation using middleware.
 - Use appropriate response codes
+- (Bonus) Implement error handling and validation using middleware.
+- (Bonus) Write unit tests for each of the API endpoints using Jest
